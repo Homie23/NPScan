@@ -1,4 +1,4 @@
-#NPScan
+# NPScan
 # Program for manual sorting of oversized parcels
 
 This program is designed for manual sorting of oversized parcels at the sorting warehouse of Novaya Posta. It allows you to scan parcel barcodes, determine the number of the warehouse to which the parcel is going, and get the number of the ramp where the parcel should be delivered.
