@@ -34,4 +34,5 @@ In order to improve data processing speed and reduce response time, database int
 
 ### Warehouse Search via Object
 Now, the information about the correspondences between warehouses and ramps is stored as an object in the object.js file. This object is an associative array where the keys are ramp numbers and the values are arrays of warehouse numbers to which parcels can be sent.
-![Screenshot of the app](./images/screenshot.png)
+
+![Screenshot of the app](/images/screenshot.PNG)
